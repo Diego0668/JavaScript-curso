@@ -6,8 +6,12 @@ body {
 header {
     color: white;
     text-align: center;
+   
 }
-
+div{
+    text-align: center;
+    padding: 8px;
+}
 section {
     background-color: white;
     border-radius: 10px;
